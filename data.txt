@@ -1,0 +1,2 @@
+FLEEK_TOKEN       pat_NS-1LqMvC9NDvaTQyku9
+FLEEK_PROJECT_ID  cldajau7t000hli08qb1ajabh
